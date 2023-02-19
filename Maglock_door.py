@@ -32,7 +32,7 @@ except ImportError:
     import tkinter as tk
     from tkinter import ttk
 
-# os.system('python telot.py &$ sleep(10) && kill telot.py')
+
 API_TOKEN = '2124982820:AAG-zVvET6Pcn9sDPiqIYLheaeos5w8T6dI'
 
 ts = str(datetime.datetime.now())
